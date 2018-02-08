@@ -1,4 +1,4 @@
-package friends;
+package a_friends;
 
 import edu.princeton.cs.algs4.StdOut;
 
